@@ -15,19 +15,19 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+locale                   : "ko-KR"
+title                    : "Welcome to AlchemicSH's Blog"
+title_separator          : "&#124;"
+subtitle                 : "Version 1.0"
+name                     : "Sehan Lee"
+description              : "여러가지 글들을 공유하는 블로그"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sehan Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, Republic of Korea"
+  email            : "sehands@kakao.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
