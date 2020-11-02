@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Cyber Security & Cook Blog"
+title                    : "SoftTrack Security Blog"
 title_separator          : "&#124;"
 subtitle                 : "정보보안과 요리, 다양한 책들에 대해 많은 생각들을 정리하는 블로그"
 name                     : "Sehan Lee"
-description              : "정보보안과 요리에 대해 다양한 생각과 글을 정리하는 블로그"
+description              : "정보보안과 요리, 다양한 책들에 대해 다양한 생각과 글을 정리하는 블로그"
 url                      : "https://alchemicsh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AlchemicSH/AlchemicSH.github.io"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Sehan Lee"
   avatar           : "/assets/images/profile_img.jpg"
-  bio              : "요리를 통해 세상을 공부하는 정보보안 전공 대학원생"
+  bio              : "취미로 요리도 공부하는 정보보안 전공 대학원생"
   location         : "Seoul, Republic of Korea"
   email            : "sehands@kakao.com"
   links:
