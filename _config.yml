@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/images/profile_img.jpg"
   bio              : "May the force be with you."
   location         : "Sejong University, Seoul, Republic of Korea"
-  # email            : "sehands@kakao.com"
+  # email            : "sehands@kakao.com"     // 한글로 '이메일' 이라고 표시됨. 그래서 주석 처리함.
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
