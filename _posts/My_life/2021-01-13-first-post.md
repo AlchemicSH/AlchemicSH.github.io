@@ -5,6 +5,7 @@ categories:
  - My_life
 tags:
  - [Hello, jekyll, minimal-mistake]
+ comments: true
 ---
 <br>
 우와아아아아아아아아아아아아ㅏ어ㅏ?
