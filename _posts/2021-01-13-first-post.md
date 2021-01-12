@@ -1,10 +1,8 @@
 ---
 date: 2021-01-13
 title: "[초보] 블로그를 만들고 처음으로 작성하는 글"
-categories: 
-	- My_life
-tags:
-	- [Hello, jekyll, minimal-mistake]
+categories: My_life
+tags: [Hello, jekyll, minimal-mistake]
 ---
 <br>
 우와아아아아아아아아아아아아ㅏ어ㅏ?
