@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "SoftTrack Security Blog"
+title                    : "SoftTrack Security Site"
 title_separator          : "&#124;"
 subtitle                 : "H3ll0 Wor1d!"
 name                     : "Sehan Lee"
