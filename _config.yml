@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "Sehan Lee"
   avatar           : "/assets/images/profile_img.jpg"
-  bio              : "취미로 요리도 공부하는 정보보안 전공 대학원생"
+  bio              : "May the force be with you."
   location         : "Sejong University, Seoul, Republic of Korea"
   email            : "sehands@kakao.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:sehands@kakao.com"
+      url: "mailto:sehands@kakao.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.softtrack.co.kr"
