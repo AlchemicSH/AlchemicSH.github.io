@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /index.html
   - title: "About"
     url: http://www.softtrack.co.kr/~AlchemicSH
   - title: "Categories"
