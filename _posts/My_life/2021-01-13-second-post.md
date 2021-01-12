@@ -5,7 +5,7 @@ categories:
  - My_life
 tags:
  - [Hello, jekyll, minimal-mistake]
- comments: true
+comments: true
 ---
 <br>
 두 번째로 해보는 중...
