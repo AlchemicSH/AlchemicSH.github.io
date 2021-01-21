@@ -2,7 +2,7 @@
 date: 2021-01-13
 title: "[초보] 블로그를 만들고 두번째로 작성하는 글 (시험용)"
 categories: 
- - My_life
+ - Journal
 tags:
  - [Hello, jekyll, minimal-mistake]
 comments: true
