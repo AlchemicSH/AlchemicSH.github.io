@@ -8,7 +8,7 @@
 	<label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
 	<ul class="nav__items" id="category_tag_menu">
 		<li>
-			👩‍🏫 전체 글 수 <u>{{sum}}</u> 개
+			👩‍🏫 전체 포스팅 수 <u>{{sum}}</u> 개
 		</li>
 		<li>
 			<span class="nav__sub-title">My Life</span>
