@@ -1,6 +1,6 @@
 ## Sehan Lee's Web Site Project
 
-It's just Blog Site for Me.
+It's just a Blog Site for Me.
 
 Have a nice day. :-)
 
