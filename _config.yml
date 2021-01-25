@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "SoftTrack Security Blog"
 title_separator          : "&#124;"
 subtitle                 : "H3ll0 Wor1d!"
-name                     : "Sehan Lee"
+name                     : "Code S"
 description              : "This site contains various infosec issues and lectures and etc."
 url                      : "https://alchemicsh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sehan Lee"
+  name             : "Code S"
   avatar           : "/assets/images/profile_img.jpg"
   bio              : "May the force be with you."
   location         : "Seoul, Republic of Korea"
