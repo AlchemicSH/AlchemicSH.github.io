@@ -11,6 +11,16 @@
 			<font size=2pt>📚 전체 포스팅 수: <u>{{sum}}</u> 개</font>
 		</li>
 		<li>
+			<span class="nav__sub-title">War-game</span>
+			<ul>
+				{% for category in site.categories %}
+					{% if category[0] == "FTZ" %}
+						<li><a href="/categories/ftz" class="">HackerSchool F.T.Z ({{category[1].size}})</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</li>
+		<li>
 			<span class="nav__sub-title">My Life</span>
 			<ul>
 				{% for category in site.categories %}
