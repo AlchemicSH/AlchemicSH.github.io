@@ -4,4 +4,4 @@ It's just a Blog Site for Me.
 
 Have a nice day. :-)
 
-[https://www.softtrack.co.kr](https://www.softtrack.co.kr)
+<a href="https://www.softtrack.co.kr" target="_blank">https://www.softtrack.co.kr</a>
