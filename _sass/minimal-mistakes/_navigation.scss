@@ -181,7 +181,7 @@
 
 .prev_next {
   font-family: $my_font;
-  color:#ffd861;
+  color:#fcffc2;
 }
 
 .page__content + .pagination,
@@ -544,7 +544,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: #80ed89;      // TOC 메뉴 제목 배경 색 바꾸는 곳!
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
