@@ -14,7 +14,7 @@ toc_sticky: true
 안녕하세요! 🙋‍♂️ Code S 입니다! <br>
 본 포스팅에서는 C언어가 무엇인지에 대해 알아보고, <br>
 어떻게 C언어를 시작할 수 있는지에 대한 방법을 알려드립니다!
-{:  .notice--success}
+{:  .notice}
 
 ## 0x01. What is C Programming Language?
 
