@@ -176,11 +176,13 @@
     color: $muted-text-color;
     border: 1px solid mix(#000, $border-color, 25%);
     border-radius: $border-radius;
+  }
+}
 
-    .prev_next {
-      font-family: $my_font;
-      color:#ffd861;
-    }
+.prev_next {
+  font-family: $my_font;
+  color:#ffd861;
+}
 
 .page__content + .pagination,
 .page__meta + .pagination,
