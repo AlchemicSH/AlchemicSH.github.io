@@ -8,3 +8,10 @@
 @import "minimal-mistakes"; // main partials
 
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding');
+
+@font-face {
+    font-family: 'SDSamliphopangche_Basic';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Basic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
