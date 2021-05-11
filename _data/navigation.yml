@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /index.html
   - title: "About"
-    url: https://www.softtrack.co.kr/Sehan.Lee-Curriculum-Viate
+    url: https://www.softtrack.co.kr/Sehan.Lee-Curriculum-Vitae
     description: "Curriculum Vitae of Se-Han Lee"
   - title: "Categories"
     url: /categories/
