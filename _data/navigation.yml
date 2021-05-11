@@ -4,6 +4,7 @@ main:
     url: /index.html
   - title: "About"
     url: https://www.softtrack.co.kr/Sehan.Lee-Curriculum-Viate
+    description: "Curriculum Vitae of Se-Han Lee"
   - title: "Categories"
     url: /categories/
   - title: "Posts by Year"
