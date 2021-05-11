@@ -48,7 +48,7 @@ int main(int argc, char* argv[]) {
 간단히 말하자면, 다음 그림과 같이 당근 주스를 만드려고 하는데..  
 당근이 손질되어 있지 않으면 만들 수 없으니까~ 우선 당근을 손질하고 손질된 당근으로 당근 주스를 만드는 과정에서 당근을 손질해주는 기계를 `전처리기`라고 볼 수 있는 겁니다! (그래서 식당에 있는 주방에 들어가보면 `전처리실`이라고 따로 식재료 손질하는 곳이 존재하기도 하죠! ㅎㅎ)  
 
-<p align="cneter"><img src="https://drive.google.com/uc?id=1pXd8OnCbq1DcAREejXNNtUJqCJVeYoc5" alt="explain_preprocessor"></p>
+<p align="center"><img src="https://drive.google.com/uc?id=1pXd8OnCbq1DcAREejXNNtUJqCJVeYoc5" alt="explain_preprocessor"></p>
 
 `C 언어(C Language)`에서의 `전처리기(Preprocessing)`또한 같은 개념입니다.  
 
@@ -91,7 +91,7 @@ int main(int argc, char* argv[]) {
 
 학교를 다닐 때, 한 번 쯤 이런 그림을 본 적이 있을 것입니다.
 
-<p align="cneter"><img src="https://drive.google.com/uc?id=1_-OI1MyXmh0vA6xzOuOdh4cTVwCw1VxX" alt="function_example"></p>
+<p align="center"><img src="https://drive.google.com/uc?id=1_-OI1MyXmh0vA6xzOuOdh4cTVwCw1VxX" alt="function_example"></p>
 
 이것이 바로 함수입니다!  
 
@@ -118,7 +118,7 @@ C언어로 작성된 프로그램은 무!조!건! main() 함수를 반드시 가
 
 main() 함수의 선언 형태는 다음과 같이 나타낼 수 있습니다.
 
-<p align="cneter"><img src="https://drive.google.com/uc?id=1k6F33Nush6ii7o30MXNKpFxByAsUKWSN" alt="main_function_structure"></p>
+<p align="center"><img src="https://drive.google.com/uc?id=1k6F33Nush6ii7o30MXNKpFxByAsUKWSN" alt="main_function_structure"></p>
 
 위 그림을 보면 간단하게 이해가 될 것입니다.
 
@@ -155,7 +155,7 @@ int main(int argc, char* argv[])
 
 함수의 기능 영역에서 `return` 의 의미는 두 가지 의미를 가지고 있는데, 하나는 `함수를 호출한 영역으로 값을 반환한다`는 의미이고, 다른 하나는 `지금 이 함수를 종료한다`는 의미입니다.  
 
-<p align="cneter"><img src="https://drive.google.com/uc?id=14Re365_fPa1u8Tkhrt94C2WVPww2EylK" alt="return_explain"></p>
+<p align="center"><img src="https://drive.google.com/uc?id=14Re365_fPa1u8Tkhrt94C2WVPww2EylK" alt="return_explain"></p>
 
 이렇게 간략하게 `main() 함수`에 대해 살펴보았습니다. 아직 이해는 잘 안되겠지만 지금은 C언어의 기본적인 구조를 파악하는 것이 우선이기 때문에 여기까지만 설명하도록 하겠습니다.  
 
@@ -196,19 +196,19 @@ int main(int argc, char* argv[])
 
 주석을 사용할 때, 여러 줄 주석(`/* */`)은 중복해서 사용을 하면 오류가 발생하게 됩니다. 만약 중복해서 주석을 사용하고 싶다면 `//`을 사용해야 합니다.  
 
-<p align="cneter"><img src="https://drive.google.com/uc?id=1cvdSvCFY9b_m89GNx3Ft3ryLYLbaF9E-" alt="return_explain"></p>
+<p align="center"><img src="https://drive.google.com/uc?id=1cvdSvCFY9b_m89GNx3Ft3ryLYLbaF9E-" alt="return_explain"></p>
 
 ## 0x04. Conclusion
 
 지금까지 C언어의 기본 구조에 대해 알아보았습니다. 여기까지 잘 따라오신 여러분에게 박수!!! (짝짝짝!)  
 
-<p align="cneter"><img src="https://drive.google.com/uc?id=1HuZq8wIeYN6lNFY5wbcbYQ6QoGiVSKid" alt="Hand Clap"></p>
+<p align="center"><img src="https://drive.google.com/uc?id=1HuZq8wIeYN6lNFY5wbcbYQ6QoGiVSKid" alt="Hand Clap"></p>
 
 앞으로 C언어를 배우는 길에서 꼭 알아야하는 것이기 때문에 잘 기억할 수 있도록 공부하셔야 합니다!  
 
 그럼 다음 포스팅으로 만날게요! ω༼’͡•-͡•༽ω 
 
-<p align="cneter"><img src="https://drive.google.com/uc?id=15sTfKooSbxMkkdsMmdysoDKcJ_ORioGm" alt="Bye Bye"></p>
+<p align="center"><img src="https://drive.google.com/uc?id=15sTfKooSbxMkkdsMmdysoDKcJ_ORioGm" alt="Bye Bye"></p>
 
 ---
 [맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}
