@@ -86,10 +86,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : "G-C5489R9G2C"
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
@@ -98,14 +98,14 @@ author:
   avatar           : "/assets/images/profile_img.jpg"
   bio              : "May the force be with you."
   location         : "Seoul, Republic of Korea"
-  # email            : "sehands@kakao.com"     // 한글로 '이메일' 이라고 표시됨. 그래서 주석 처리함.
+  # email            : "sehands@naver.com"     // 한글로 '이메일' 이라고 표시됨. 그래서 주석 처리함.
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sehands@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://www.softtrack.co.kr"
+      # url: "http://www.softtrack.co.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -114,7 +114,7 @@ author:
       url: "https://www.facebook.com/Alchemic.SH"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AlchemicSH"
+      # url: "https://github.com/AlchemicSH"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/alchemic_sh/"
@@ -133,7 +133,7 @@ footer:
       url: "https://www.facebook.com/Alchemic.SH"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/AlchemicSH"
+      # url: "https://github.com/AlchemicSH"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
