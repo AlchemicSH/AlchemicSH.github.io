@@ -1,6 +1,6 @@
 ---
 date: 2021-05-10
-title: "[C Language] Basic Structure of C Programming Language"
+title: "[C Language] 02. Basic Structure of C Programming Language"
 categories:
  - C_Language
 tags:

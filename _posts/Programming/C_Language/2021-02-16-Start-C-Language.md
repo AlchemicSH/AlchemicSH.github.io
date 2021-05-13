@@ -1,6 +1,6 @@
 ---
 date: 2021-02-16
-title: "[C Language] Introduction"
+title: "[C Language] 01. Introduction"
 categories:
  - C_Language
 tags:
