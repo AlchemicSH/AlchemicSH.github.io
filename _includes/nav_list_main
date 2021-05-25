@@ -28,7 +28,7 @@
 			</ul>
 		</li>
 		<li>
-			<span class="nav__sub-title">GitHub Pages</span>
+			<span class="nav__sub-title">Blog Dev</span>
 			<ul>
 				{% for category in site.categories %}
 					{% if category[0] == "GitHub_Pages" %}
