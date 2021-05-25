@@ -27,5 +27,15 @@
 				{% endfor %}
 			</ul>
 		</li>
+		<li>
+			<span class="nav__sub-title">GitHub Pages</span>
+			<ul>
+				{% for category in site.categories %}
+					{% if category[0] == "GitHub_Pages" %}
+						<li><a href="/categories/github_pages" class="">GitHub Pages ({{category[1].size}})</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</li>
 	</ul>
 </nav>
