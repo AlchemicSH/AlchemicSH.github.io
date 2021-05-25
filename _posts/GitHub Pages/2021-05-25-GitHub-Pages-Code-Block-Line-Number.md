@@ -6,9 +6,7 @@ categories:
 tags:
  - [GitHub, Pages]
 comments: true
-toc: true
-toc_label: "Contents"
-toc_sticky: true
+toc: false
 ---
 
 안녕하세요! 🙋‍♂️ Code S 입니다! <br>
