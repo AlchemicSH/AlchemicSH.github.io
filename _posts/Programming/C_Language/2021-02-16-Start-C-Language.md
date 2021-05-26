@@ -111,27 +111,27 @@ int main(int argc, char* argv[]) {
 설치를 완료하였다면!  
 지금부터 `Visual Studio`를 사용하여 `C언어 프로그래밍`을 해보도록 하겠습니다! (본 포스팅에서는 `Visual Studio 2019`를 사용하여 설명합니다.)  
 
-1️⃣ 설치된 `Visual Studio` 프로그램을 실행하고, `[새 프로젝트 만들기(N)]`를 선택합니다.
+:one: 설치된 `Visual Studio` 프로그램을 실행하고, `[새 프로젝트 만들기(N)]`를 선택합니다.
 
 <p align="center"><img src="https://drive.google.com/uc?id=1P9eBxUQhJqDlcZM0CXMlEl4GSqQ1STIm" alt="visual_studio_2019_01" width="550px" height="450px"></p>
 
-2️⃣ `[빈 프로젝트]` 중에서 `Windows용 C++를 사용하여 처음부터 시작합니다. 시작 파일을 제공하지 않습니다.`라는 내용이 담겨진 프로젝트를 선택해서 만들어줍니다.
+:two: `[빈 프로젝트]` 중에서 `Windows용 C++를 사용하여 처음부터 시작합니다. 시작 파일을 제공하지 않습니다.`라는 내용이 담겨진 프로젝트를 선택해서 만들어줍니다.
 
 <p align="center"><img src="https://drive.google.com/uc?id=1_xPfOK_y3VN-LwpBsk7eGe_gYVbtosEY" alt="visual_studio_2019_02" width="550px" height="450px"></p>
 
-3️⃣ `[새 프로젝트 구성]`페이지가 나타나면, `프로젝트 이름`, 프로젝트를 저장할 `위치`를 입력하고, `솔루션`의 경우 `솔루션 및 프로젝트를 같은 디렉터리에 배치(D)`라는 문구를 체크한 뒤, `[만들기(C)]` 버튼을 클릭해서 프로젝트를 생성합니다!
+:three: `[새 프로젝트 구성]`페이지가 나타나면, `프로젝트 이름`, 프로젝트를 저장할 `위치`를 입력하고, `솔루션`의 경우 `솔루션 및 프로젝트를 같은 디렉터리에 배치(D)`라는 문구를 체크한 뒤, `[만들기(C)]` 버튼을 클릭해서 프로젝트를 생성합니다!
 
 <p align="center"><img src="https://drive.google.com/uc?id=1l1djHXAEp7mDZjKR6lmlTOFAvDXmM_P2" alt="visual_studio_2019_03" width="550px" height="450px"></p>
 
-4️⃣ 아래 그림과 같이 프로젝트가 생성되면, 화면이 나타나게 되며 `[소스 파일]`에 마우스 오른쪽 클릭을 해서 소스 코드 파일을 추가해줍니다.
+:four: 아래 그림과 같이 프로젝트가 생성되면, 화면이 나타나게 되며 `[소스 파일]`에 마우스 오른쪽 클릭을 해서 소스 코드 파일을 추가해줍니다.
 
 <p align="center"><img src="https://drive.google.com/uc?id=1HtloQvNxqZQtGCyELDkLiqxgNFeqKZ-M" alt="visual_studio_2019_04" width="600px" height="500px"></p>
 
-5️⃣ `[새 항목 추가]`라는 창이 하나 뜨게 되면, `C++ 파일(.cpp)`를 선택하고 파일 이름의 형태는 `[파일 이름.c]`로 한 뒤, `[추가(A)]`를 클릭합니다!
+:five: `[새 항목 추가]`라는 창이 하나 뜨게 되면, `C++ 파일(.cpp)`를 선택하고 파일 이름의 형태는 `[파일 이름.c]`로 한 뒤, `[추가(A)]`를 클릭합니다!
 
 <p align="center"><img src="https://drive.google.com/uc?id=15688036XiXzfDnIadAE0SS1JKoUYZ2hc" alt="visual_studio_2019_05" width="550px" height="450px"></p>
 
-6️⃣ 소스 코드 파일이 새롭게 추가되고, 입력을 할 수 있게 에디터 화면에 표시가 됩니다. 그러면 아래 그림과 같이 다음의 예제 소스 코드를 입력해줍니다!
+:six: 소스 코드 파일이 새롭게 추가되고, 입력을 할 수 있게 에디터 화면에 표시가 됩니다. 그러면 아래 그림과 같이 다음의 예제 소스 코드를 입력해줍니다!
 
 ```c
 #include <stdio.h>
@@ -144,7 +144,7 @@ int main(int argc, char* argv[]) {
 
 <p align="center"><img src="https://drive.google.com/uc?id=1oQ9U3I3pnUIZqAouGzddSQS7-RJ2iNUO" alt="visual_studio_2019_06" width="600px" height="500px"></p>
 
-7️⃣ 소스 코드 입력을 모두 마쳤으면..!! 이제 `[Ctrl + F5]`를 눌러 `컴파일(Compile)`을 진행하고 생성된 `exe 파일`을 실행하게 되면 결과를 확인할 수 있습니다! 😆😁
+:seven: 소스 코드 입력을 모두 마쳤으면..!! 이제 `[Ctrl + F5]`를 눌러 `컴파일(Compile)`을 진행하고 생성된 `exe 파일`을 실행하게 되면 결과를 확인할 수 있습니다! 😆😁
 
 <p align="center"><img src="https://drive.google.com/uc?id=1Oa-5Sz2n4YEW6HExPE56t0oR9olWGh2p" alt="visual_studio_2019_07" width="800px" height="700px"></p>
 
