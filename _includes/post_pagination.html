@@ -15,6 +15,8 @@
 {% endfor %}
 
 {% if prev_post or next_post %}
+  <span class="prev_next"> {{cat}} &nbsp </span>카테고리의 다른 포스트 읽어보기
+  <br>
   <nav class="pagination_prev_next">
     {% if prev_post %}
       <a href="{{ prev_post.url }}" class="pagination_prev_next--pager"><span class="prev_next">Previous post  &nbsp  </span>{{ prev_post.title }}</a>
