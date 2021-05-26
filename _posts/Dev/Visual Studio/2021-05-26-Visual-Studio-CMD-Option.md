@@ -2,7 +2,7 @@
 date: 2021-05-26
 title: "[Visual Studio 2019] Code Block에 줄 번호(Line Number) 출력하기"
 categories:
- - Visual_Studio_2019
+ - Visual_Studio
 tags:
  - [VisualStudio, 2019, VisualStudio2019, Microsoft]
 comments: true

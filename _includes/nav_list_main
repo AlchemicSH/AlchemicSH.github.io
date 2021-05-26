@@ -38,8 +38,8 @@
 			</ul>
 			<ul>
 				{% for category in site.categories %}
-					{% if category[0] == "Visual_Studio_2019" %}
-						<li><a href="/categories/github_pages" class="">Visual Studio 2019 ({{category[1].size}})</a></li>
+					{% if category[0] == "Visual_Studio" %}
+						<li><a href="/categories/github_pages" class="">Visual Studio ({{category[1].size}})</a></li>
 					{% endif %}
 				{% endfor %}
 			</ul>

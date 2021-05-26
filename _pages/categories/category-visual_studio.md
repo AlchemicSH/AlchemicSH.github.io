@@ -1,9 +1,9 @@
 ---
-title: "Visual Studio 2019"
+title: "Visual Studio"
 layout: archive
-permalink: categories/visual_studio_2019
+permalink: categories/visual_studio
 author_profile: true
 sidebar_main: true
 ---
-{% assign posts = site.categories.Visual_Studio_2019 %}
+{% assign posts = site.categories.Visual_Studio %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
