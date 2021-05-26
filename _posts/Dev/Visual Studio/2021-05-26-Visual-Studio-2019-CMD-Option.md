@@ -30,11 +30,11 @@ Visual Studio 2019 를 처음 설치하고 프로그래밍을 처음 시작해�
 
 한 번 이 문장을 없애보도록 하겠습니다! 🙇‍♂️  
 
-1️⃣ 먼저 맨 위에 보기 중에서 `[도구(T)]` 를 누르고, `[옵션(O)]`을 선택합니다.  
+:one: 먼저 맨 위에 보기 중에서 `[도구(T)]` 를 누르고, `[옵션(O)]`을 선택합니다.  
 
 <p align="center"><img src="https://drive.google.com/uc?id=11Ge2hwBp6lYgl86wkbP9zuD5EzuFxnZ4" alt="Visual_Studio_2019_CMD_Option_Step_01"></p>
 
-2️⃣ 그 다음, 나타나는 창에서 `[디버깅]` -> `[일반]`을 선택하고 맨 밑으로 스크롤을 내린 뒤 `디버깅이 중지되면 자동으로 콘솔 닫기`를 체크합니다. 그리고 `[확인]`을 눌러 설정을 저장합니다! 끝!!!!!! (쉽죠?? ㅎㅎ 🤣)  
+:two: 그 다음, 나타나는 창에서 `[디버깅]` -> `[일반]`을 선택하고 맨 밑으로 스크롤을 내린 뒤 `디버깅이 중지되면 자동으로 콘솔 닫기`를 체크합니다. 그리고 `[확인]`을 눌러 설정을 저장합니다! 끝!!!!!! (쉽죠?? ㅎㅎ 🤣)  
 
 <p align="center"><img src="https://drive.google.com/uc?id=173UEB7d4--LYQyD9EScn2jS-zdQC-yZ7" alt="Visual_Studio_2019_CMD_Option_Step_02"></p>
 
